@@ -1,4 +1,3 @@
-# MimrpimSMP-modpack1
 This is a modpack from the MimrpimSMP server
 
 # What does this modpack add?
@@ -25,6 +24,50 @@ My friends and I love playing Minecraft. So one day I said to myself that we cou
 
 # List of mods
 
+- [YUNG's Better Witch Huts](https://modrinth.com/mod/yungs-better-witch-huts)
+- [Cardinal Components API](https://modrinth.com/mod/cardinal-components-api)
+- [What Are They Up To (Watut)](https://modrinth.com/mod/what-are-they-up-to)
+- [YUNG's Better Dungeons](https://modrinth.com/mod/yungs-better-dungeons)
+- [Balm](https://modrinth.com/mod/balm)
+- [FerriteCore](https://modrinth.com/mod/ferrite-core)
+- [Clumps](https://modrinth.com/mod/clumps)
+- [Fabric Language Kotlin](https://modrinth.com/mod/fabric-language-kotlin)
+- [Mod Menu](https://modrinth.com/mod/modmenu)
+- [YUNG's Better Ocean Monuments](https://modrinth.com/mod/yungs-better-ocean-monuments)
+- [Xaero's Minimap](https://modrinth.com/mod/xaeros-minimap)
+- [Fabric API](https://modrinth.com/mod/fabric-api)
+- [No Chat Reports](https://modrinth.com/mod/no-chat-reports)
+- [FallingTree](https://modrinth.com/mod/fallingtree)
+- [Polymorph](https://modrinth.com/mod/polymorph)
+- [Create Deco](https://modrinth.com/mod/create-deco)
+- [Cloth Config API](https://modrinth.com/mod/cloth-config)
+- [Carry On](https://modrinth.com/mod/carry-on)
+- [AppleSkin](https://modrinth.com/mod/appleskin)
+- [Concurrent Chunk Management Engine (Fabric)](https://modrinth.com/mod/c2me-fabric)
+- [CoroUtil](https://modrinth.com/mod/coroutil)
+- [Inventory Profiles Next](https://modrinth.com/mod/inventory-profiles-next)
+- [YUNG's API](https://modrinth.com/mod/yungs-api)
+- [YUNG's Better Mineshafts](https://modrinth.com/mod/yungs-better-mineshafts)
+- [Traveler's Backpack](https://modrinth.com/mod/travelersbackpack)
+- [Create Fabric](https://modrinth.com/mod/create-fabric)
+- [libIPN](https://modrinth.com/mod/libipn)
+- [Just Enough Items](https://modrinth.com/mod/jei)
+- [Create: Steam 'n' Rails](https://modrinth.com/mod/create-steam-n-rails)
+- [Simple Voice Chat](https://modrinth.com/mod/simple-voice-chat)
+- [YUNG's Better Strongholds](https://modrinth.com/mod/yungs-better-strongholds)
+- [BCLib](https://modrinth.com/mod/bclib)
+- [YUNG's Better Desert Temples](https://modrinth.com/mod/yungs-better-desert-temples)
+- [Trinkets](https://modrinth.com/mod/trinkets)
+- [YUNG's Better Jungle Temples](https://modrinth.com/mod/yungs-better-jungle-temples)
+- [Xaero's World Map](https://modrinth.com/mod/xaeros-world-map)
+- [Waystones](https://modrinth.com/mod/waystones)
+- [Jade 🔍](https://modrinth.com/mod/jade)
+- [Create: Copycats+](https://modrinth.com/mod/copycats)
+- [Universal Graves](https://modrinth.com/mod/universal-graves)
+- [YetAnotherConfigLib (YACL)](https://modrinth.com/mod/yacl)
+- [BetterNether](https://modrinth.com/mod/betternether)
+- [BetterEnd](https://modrinth.com/mod/betterend)
+
 > This list is generated from Modrinch app
 # Keybinds
 
@@ -50,12 +93,10 @@ Voicechat <br>
    <br>
 Disable = N <br>
 Mute microphone = X <br>
-Push to talk = X <br>
 Open menu = V <br>
-Whisper = C (or if you have zoom do not use it) <br>
- <br>
+<br>
 Xaero's World Map <br>
-   <br>
+<br>
 Open = M <br>
  <br>
 
